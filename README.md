@@ -2,7 +2,7 @@
 
 # Tetris
 
-- classic tetris app build using pygame
+- Classic tetris app build using pygame
 
 ### Concepts learned:
 
@@ -11,4 +11,4 @@
 
 ### Note:
 
-- when initalizing app set a default value in the scores.txt file say 0 to avoid errors
+- When initalizing app set a default value in the scores.txt file say 0 to avoid errors
